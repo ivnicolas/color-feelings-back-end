@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  hex_code: MyString
+  likes: 1
+  feeling: one
+
+two:
+  name: MyString
+  hex_code: MyString
+  likes: 1
+  feeling: two
