@@ -19,13 +19,14 @@ class ColorsController < ApplicationController
 
   # POST /colors
   def create
+
     @color = Color.new(color_params)
     
     @feeling = Feeling.find_by(name: params[:feeling])
     @color.feeling_id = @feeling.id
 
+
     if @color.save
-   
       render json: @color, status: :created, location: @color
     else
       

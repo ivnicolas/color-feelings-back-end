@@ -69,7 +69,7 @@ Color.create([{
   },
 
   {
-    name: "Columbia Mall Carousel" , 
+    name: "Mall Carousel" , 
     hex_code: "#e394d6",
     likes: 1 ,
     feeling: Feeling.all[2]
