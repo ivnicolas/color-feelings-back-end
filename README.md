@@ -14,7 +14,7 @@ To test it out, clone down this repo and run:
 Clone the front-end repo and run 
 - `cd color-feelings-front-end`
 
-*[frony end here](https://github.com/ivnicolas/color-feelings-front-end)
+*[front end here](https://github.com/ivnicolas/color-feelings-front-end)
 
 To start the application make sure you are in the front-end repo folder, and run:
 - `open index.html`
